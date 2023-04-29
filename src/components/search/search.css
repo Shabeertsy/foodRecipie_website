@@ -1,0 +1,30 @@
+.sug-main{
+    background-color: #fff;
+    padding: 2%;
+    border: 1px solid rgb(214, 206, 206);
+    border-radius: 6px;
+    margin-top: 10px;
+    width: 100%;
+}
+.hero-input{
+    border: 1px solid rgb(205, 199, 199);
+    width: 90vw;
+    height:40px;
+    border-radius: 100px;
+}
+.search-inp{
+    width: 60%;
+    border: none;
+    border-right: 1px solid rgb(190, 185, 185);
+    outline: none;
+}
+
+.sug-items:hover{
+background-color: rgb(131, 125, 125);
+color: #fff;
+border-radius: 5px;
+}
+
+.search-icon{
+    font-size: 1.2rem;
+}
